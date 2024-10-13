@@ -53,6 +53,8 @@ public class Main {
 			7 x 3 = 21
 			and so on
 			and the program ends"
+   
+   		 * Edit: I think this was also the day I learned that you can stop loops from the console itself instead of closing the IDE entirely. Yikes.
 		 */
 	}
 	}
